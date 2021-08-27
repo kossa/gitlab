@@ -3,4 +3,5 @@
 
 <footer>
     Just a footer
+    <span>[This is a Google Map feature]</span>
 </footer>
